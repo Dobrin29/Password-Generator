@@ -1,0 +1,15 @@
+Option A) To simply use the file you have to:
+
+1.Download "Password-Generator-main.zip" from green code button --> Download ZIP.
+2.Extract all
+3. Start passwordgen.py file.
+
+Option B) To use .exe file you have to:
+
+1. Click on releases ( Right on screen )
+2. Find the latest release and scroll down.
+3. Download the latest release .zip file by pressing on PassGen.zip
+4. Extract all.
+5. Start PassGen.exe
+
+( The source code for PassGen.exe is shown in passwordgen.py)
