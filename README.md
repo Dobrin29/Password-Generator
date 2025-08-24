@@ -41,13 +41,13 @@ Step 2: GUI (Tkinter)
 
 Step 3: Packaging with PyInstaller
 - CLI build:
-    pyinstaller --onefile --name PasswordGen passwordgen.py
+    pyinstaller --onedir --name PasswordGen passwordgen.py
 - GUI build without console:
-    pyinstaller --onefile --noconsole --name PassGen gui_passwordgen.py
+    pyinstaller --onedir --noconsole --name PassGen gui_passwordgen.py
 
 Step 4: Distribution
 - The final .exe is placed in the "dist" folder.
-- Because of "--onefile," only PassGen.exe is required.
+- Because of "--onedir," only PassGen.exe is required and the _internal folder.
 
 ---
 
